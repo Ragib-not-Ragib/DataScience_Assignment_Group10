@@ -1,0 +1,12 @@
+SKU,Product Name,Product Family,Sale Price,Supplier,COGS,Replenishment Time,Replenishment Frequency,Product Emissions,Transportation Emissions,Start Stock
+7,Socks (5-pack),Apparel,150,CozyWear Clothing,45,10,6,4.2,70,31
+27,Phone Case,Electronics,250,VoltWave Comm.,90,30,10,280.0,170,25
+29,HDMI Cable,Electronics,200,VoltWave Comm.,50,33,11,290.0,150,24
+36,Throw Blanket,Home,400,FloraRise Botanicals,120,11,7,2.5,40,20
+58,Hiking Backpack,Sports & Outdoors,800,PeakPerformance Gear,350,10,5,6.5,110,10
+58,Hiking Backpack,Sports & Outdoors,800,EcoAdventure,400,14,6,4.8,75,10
+63,Camping Tent,Sports & Outdoors,900,EcoAdventure,450,12,5,5.5,95,11
+71,Marker Set,Office Supplies,50,Deskify Supplies,20,12,6,1.2,30,41
+164,Pull-Up Bar,Fitness Equipment,150,FitZone,60,14,6,85.0,95,29
+189,Portable Heater,Tools & Machinery,450,Workforce Gear,180,14,6,220.0,180,18
+190,Extension Cord,Tools & Machinery,150,Workforce Gear,65,14,6,95.0,85,57
